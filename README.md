@@ -1,1 +1,1 @@
-# my-resume
+# udemy-my-resume
